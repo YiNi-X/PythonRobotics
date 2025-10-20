@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.7">
+  <diagram name="第 1 页" id="cl1PywjsN8F8ImRWkRXv">
+    <mxGraphModel dx="1165" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uDPJuGSdhHfyx99oGsfw-1" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;fillColor=light-dark(#6A00FF,#990099);fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="100" y="10" width="460" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uDPJuGSdhHfyx99oGsfw-2" value="数据服务对象层" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" vertex="1" parent="uDPJuGSdhHfyx99oGsfw-1">
+          <mxGeometry x="10" y="35" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uDPJuGSdhHfyx99oGsfw-3" value="海" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=#3700CC;fillColor=light-dark(#6A00FF,#FFFFFF);fontColor=#ffffff;" vertex="1" parent="uDPJuGSdhHfyx99oGsfw-1">
+          <mxGeometry x="40" y="10" width="400" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="uDPJuGSdhHfyx99oGsfw-8" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;fillColor=light-dark(#6A00FF,#990099);fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="140" y="230" width="460" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uDPJuGSdhHfyx99oGsfw-9" value="数据应用层" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" vertex="1" parent="uDPJuGSdhHfyx99oGsfw-8">
+          <mxGeometry x="10" y="35" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uDPJuGSdhHfyx99oGsfw-10" value="海" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=#3700CC;fillColor=light-dark(#6A00FF,#FFFFFF);fontColor=#ffffff;" vertex="1" parent="uDPJuGSdhHfyx99oGsfw-8">
+          <mxGeometry x="40" y="10" width="400" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="uDPJuGSdhHfyx99oGsfw-11" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;fillColor=light-dark(#6A00FF,#990099);fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="160" y="460" width="460" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uDPJuGSdhHfyx99oGsfw-12" value="数据处理层" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" vertex="1" parent="uDPJuGSdhHfyx99oGsfw-11">
+          <mxGeometry x="10" y="35" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uDPJuGSdhHfyx99oGsfw-13" value="海" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=#3700CC;fillColor=light-dark(#6A00FF,#FFFFFF);fontColor=#ffffff;" vertex="1" parent="uDPJuGSdhHfyx99oGsfw-11">
+          <mxGeometry x="40" y="10" width="400" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="uDPJuGSdhHfyx99oGsfw-14" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;fillColor=light-dark(#6A00FF,#990099);fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="150" y="730" width="460" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uDPJuGSdhHfyx99oGsfw-15" value="数据来源层" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" vertex="1" parent="uDPJuGSdhHfyx99oGsfw-14">
+          <mxGeometry x="10" y="35" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uDPJuGSdhHfyx99oGsfw-16" value="海" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=#3700CC;fillColor=light-dark(#6A00FF,#FFFFFF);fontColor=#ffffff;" vertex="1" parent="uDPJuGSdhHfyx99oGsfw-14">
+          <mxGeometry x="40" y="10" width="400" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="uDPJuGSdhHfyx99oGsfw-17" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;fillColor=light-dark(#6A00FF,#990099);fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="150" y="940" width="460" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uDPJuGSdhHfyx99oGsfw-18" value="数据服务对象层" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" vertex="1" parent="uDPJuGSdhHfyx99oGsfw-17">
+          <mxGeometry x="10" y="35" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uDPJuGSdhHfyx99oGsfw-19" value="海" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=#3700CC;fillColor=light-dark(#6A00FF,#FFFFFF);fontColor=#ffffff;" vertex="1" parent="uDPJuGSdhHfyx99oGsfw-17">
+          <mxGeometry x="40" y="10" width="400" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
